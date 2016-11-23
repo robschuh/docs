@@ -15,3 +15,5 @@ Pagination
 .. meta::
     :title lang=es: Pagination
     :keywords lang=es: order array,query conditions,php class,web applications,headaches,obstacles,complexity,programmers,parameters,paginate,designers,cakephp,satisfaction,developers
+
+Uno de los principales obstáculos de crear flexibles y amigables aplicaciones web es diseñar una intuitiva interfaz web.
